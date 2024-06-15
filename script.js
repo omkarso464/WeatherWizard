@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         image.src = 'images/snow.png';
                         break;
                     case 'Clouds':
-                        image.src = 'images/cloud1.png';
+                        image.src = 'images/cloud.png';
                         break;
                     case 'Mist':
                         image.src = 'images/mist.png';
